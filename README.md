@@ -1,2 +1,2 @@
 # bankcalc
-a bank interest calculator
+a bank interest calculator made with electron
