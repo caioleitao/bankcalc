@@ -1,0 +1,22 @@
+{
+  "name": "bankcalc",
+  "version": "1.0.0",
+  "description": "a bank interest calculator",
+  "main": "window.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioRecife/bankcalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioRecife/bankcalc/issues"
+  },
+  "homepage": "https://github.com/CaioRecife/bankcalc#readme",
+  "dependencies": {
+    "electron": "^5.0.8"
+  }
+}
