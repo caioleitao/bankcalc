@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/CaioRecife/bankcalc#readme",
   "dependencies": {
-    "electron": "^5.0.8"
+    "electron": "^13.6.6"
   }
 }
